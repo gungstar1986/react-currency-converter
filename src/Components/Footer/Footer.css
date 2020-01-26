@@ -1,0 +1,8 @@
+.footer-container {
+    width: 600px;
+    height: 50px;
+    background: rgba(251, 238, 39, 0.6);
+    margin: 0 auto;
+    bottom: -50px;
+    border: 1px solid black;
+}

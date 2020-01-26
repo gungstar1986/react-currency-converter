@@ -1,0 +1,25 @@
+.content-container-description {
+
+}
+
+.content-container-value {
+
+}
+
+.content-container-main {
+    display: flex;
+    margin-bottom: 5px;
+    justify-content: space-around;
+    flex-wrap: wrap;
+}
+
+.content-currency {
+    background: rgba(255, 0, 0, 0.51);
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+}
+
+.element-currency {
+    margin: 3px 5px 10px;
+}

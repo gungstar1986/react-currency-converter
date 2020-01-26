@@ -1,0 +1,36 @@
+.header-container {
+    margin: 0 auto;
+    width: 600px;
+    height: 100px;
+    display: flex;
+    background: rgba(0, 0, 0, 0.11);
+    border: 1px solid black;
+}
+
+.header-logo {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    width: 45%;
+    color: #293f3b;
+    font-family: sans-serif, Tahoma;
+    font-weight: bolder;
+    font-size: 15pt;
+}
+
+.header-current-city-location {
+    width: 30%;
+    background: rgba(83, 248, 255, 0.45);
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.header-chose-city {
+    width: 25%;
+    background: rgba(255, 248, 53, 0.45);
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
